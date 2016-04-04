@@ -27,4 +27,3 @@ print(even,"numbers were even")
 print(odd,"numbers were odd")
 print(evenList,"these were the even numbers")
 print(oddList,"these were the odd numbers")
-
